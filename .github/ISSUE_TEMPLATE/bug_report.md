@@ -22,7 +22,7 @@ Steps to reproduce the behavior (or attach video):
 4. See error
 
 **Code**
-If applicable, add your Neon code here as a text or upload file (text is better than screenshot for debugging)
+If applicable, add your Latte code here as a text or upload file (text is better than screenshot for debugging)
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
