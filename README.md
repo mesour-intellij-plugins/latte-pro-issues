@@ -1,5 +1,5 @@
-# IntelliJ NEON Nette Support
+# IntelliJ Latte Pro
 
-This repository is used as issue tracker for NEON Nette Support plugin
+This repository is used as issue tracker for Latte Pro plugin
 
-- DOCS - [here](https://mesour-intellij-plugins.github.io)
+- DOCS - [here](https://mesour-intellij-plugins.github.io/latte.html)
